@@ -23,7 +23,7 @@ This script enables us to download debian packages with its dependencies which i
 2. **Run the script**:  
    Provide the package list file as an argument:
    ```bash
-   ./script.sh package-list.txt
+   ./downloadPackages.sh package-list.txt
    ```
 
 3. **Downloaded packages**:  
